@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Pemrograman Mobile',
         theme: ThemeData(
-          primarySwatch: Colors.deepPurple,
+          primarySwatch: Colors.amber,
         ),
         home: const MyHomePage(title: 'Praktikum 4'),
       ),
