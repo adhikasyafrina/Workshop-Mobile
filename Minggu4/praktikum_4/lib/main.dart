@@ -37,7 +37,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -88,87 +88,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 },
                 child: Text("Tugas"),
               ),
-              // ElevatedButton(
-              //   onPressed: () {
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //           builder: (context) => const Logo(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text("Percobaan 3"),
-              // ),
-              // SizedBox(
-              //   height: 20.0,
-              // ),
-              // ElevatedButton(
-              //   onPressed: (){
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const Gambar(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text('Percobaan 4'),
-              // ),
-              // SizedBox(
-              //   height: 20.0,
-              // ),
-              // ElevatedButton(
-              //   onPressed: (){
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const Font(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text('Percobaan 5'),
-              // ),
-              // SizedBox(
-              //   height: 20.0,
-              // ),
-              // ElevatedButton(
-              //   onPressed: (){
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const Latihan(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text('Latihan'),
-              // ),
-              // SizedBox(
-              //   height: 20.0,
-              // ),
-              // ElevatedButton(
-              //   onPressed: (){
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const Tugas(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text('Tugas'),
-              // ),
-              // SizedBox(
-              //   height: 20.0,
-              // ),
-              // ElevatedButton(
-              //   onPressed: (){
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const MainScreen(),
-              //         ),
-              //     );
-              //   },
-              //   child: Text('Praktikum 3.2'),
-              // ),
             ],
           ),
         ),
