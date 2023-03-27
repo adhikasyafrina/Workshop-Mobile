@@ -137,9 +137,6 @@ class _CulinaryListProviderState extends State<CulinaryListProvider> {
       ],
     ),
   ];
-  // final List<Culinary> doneCulinaryListProvider;
-
-  // _CulinaryListProviderState(this.doneCulinaryListProvider);
 
   @override
   Widget build(BuildContext context) {
